@@ -6,7 +6,7 @@
 
 ## 📞 Contacto
 - **Teléfono:** +57 320 219 5284
-- **Email:** [correo@ejemplo.com](mailto:kalethstevendurancuenca@gmail.com)
+- **Email:** [kalethstevendurancuenca@gmail.com](mailto:kalethstevendurancuenca@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
