@@ -24,7 +24,3 @@
 - **Habilidad 1**
 - **Habilidad 2**
 - **Habilidad 3**
-
----
-
-
