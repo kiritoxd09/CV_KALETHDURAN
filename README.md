@@ -11,7 +11,7 @@
 
 ## 🏢 Experiencia Laboral
 ### **SENA** _(2025 - Actualidad)_
-- Aprendiz en Analisis y Desarrollo de Software.
+- Aprendiz en Analista y Desarrollador de Software.
 
 ### **Empresa ABC** _(2018 - 2020)_
 - Puesto ocupado y descripción breve.
