@@ -1,17 +1,17 @@
-# CV_KALETHDURAN
+# CV_KALETHCUENCA
 # Hoja de Vida
 
 ## kaleth steven duran cuenca
-**Profesión:** _Tu profesión_
+**Profesión:** _Analista y Desarrollador de Software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:** +57 320 219 5284
+- **Email:** [correo@ejemplo.com](mailto:kalethstevendurancuenca@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **SENA** _(2025 - Actualidad)_
+- Aprendiz en Analisis y Desarrollo de Software.
 
 ### **Empresa ABC** _(2018 - 2020)_
 - Puesto ocupado y descripción breve.
