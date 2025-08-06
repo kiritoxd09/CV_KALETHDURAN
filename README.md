@@ -17,8 +17,8 @@
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **COLEGIO MIGUEL ANTONIO CARO** _(2022 - 2022)_
+-   bachiller.
 
 ## 💡 Habilidades
 - **Habilidad 1**
