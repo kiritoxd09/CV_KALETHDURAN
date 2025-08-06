@@ -1,7 +1,7 @@
-# CV_Example
+# CV_KALETHDURAN
 # Hoja de Vida
 
-## Nombre Completo
+## kaleth steven duran cuenca
 **Profesión:** _Tu profesión_
 
 ## 📞 Contacto
